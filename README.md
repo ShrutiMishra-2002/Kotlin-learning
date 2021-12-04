@@ -1,15 +1,10 @@
 
-## Python GUI
-<br>
-<p> What is Kotlin : <br><br>
-Python offers multiple options for developing GUI (Graphical User Interface). ... It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task.
-</p> 
-<br>
-<p> About this project : <br><br>
+## Kotlin Learning
+<h2> About this project : </h2>
+<br><br>
 <p>
 1.Starting with kotlin.<br>
 2.Creating a birthday wishing program.
-
 </p>
 <br><br>
 
